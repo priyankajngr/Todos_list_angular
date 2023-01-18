@@ -1,2 +1,2 @@
-# Todos_list_angular
-Todo List angular
+# todos_list_angular
+todo List angular
